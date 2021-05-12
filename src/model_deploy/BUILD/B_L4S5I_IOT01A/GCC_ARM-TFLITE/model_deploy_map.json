@@ -2,32 +2,32 @@
     {
         "module": "../..",
         "size": {
-            ".text": 32724,
-            ".data": 444,
-            ".bss": 8014,
-            ".text-delta": 5004,
+            ".text": 64994,
+            ".data": 543,
+            ".bss": 14045,
+            ".text-delta": 0,
             ".data-delta": 0,
-            ".bss-delta": 120
+            ".bss-delta": 0
         }
     },
     {
         "module": "BUILD/B_L4S5I_IOT01A",
         "size": {
-            ".text": 25288,
-            ".data": 305,
-            ".bss": 65414,
-            ".text-delta": 1094,
-            ".data-delta": 16,
-            ".bss-delta": 984
+            ".text": 32250,
+            ".data": 314,
+            ".bss": 67006,
+            ".text-delta": 8,
+            ".data-delta": 0,
+            ".bss-delta": 0
         }
     },
     {
         "module": "[fill]",
         "size": {
-            ".text": 184,
-            ".data": 14,
-            ".bss": 31,
-            ".text-delta": 30,
+            ".text": 296,
+            ".data": 16,
+            ".bss": 48,
+            ".text-delta": -8,
             ".data-delta": 0,
             ".bss-delta": 0
         }
@@ -35,10 +35,10 @@
     {
         "module": "[lib]/c.a",
         "size": {
-            ".text": 32340,
-            ".data": 2472,
+            ".text": 48916,
+            ".data": 2474,
             ".bss": 89,
-            ".text-delta": 3252,
+            ".text-delta": 0,
             ".data-delta": 0,
             ".bss-delta": 0
         }
@@ -46,7 +46,7 @@
     {
         "module": "[lib]/gcc.a",
         "size": {
-            ".text": 3436,
+            ".text": 3596,
             ".data": 0,
             ".bss": 0,
             ".text-delta": 0,
@@ -57,7 +57,7 @@
     {
         "module": "[lib]/m.a",
         "size": {
-            ".text": 2552,
+            ".text": 3936,
             ".data": 1,
             ".bss": 0,
             ".text-delta": 0,
@@ -100,10 +100,10 @@
     },
     {
         "summary": {
-            "static_ram": 76832,
-            "static_ram_delta": 1120,
-            "total_flash": 100016,
-            "total_flash_delta": 9396
+            "static_ram": 84584,
+            "static_ram_delta": 0,
+            "total_flash": 157592,
+            "total_flash_delta": 0
         }
     }
 ]
