@@ -106,6 +106,7 @@ void mqtt() {
     call_mqtt = true;
     ///////// print out the angle in the end
     printf("threshold angle is :%d\r\n", angle);
+    printf("please push enter to continue\n");
 }
 
 ////////////////////////////////////////////mqtt/////////////////////////////////////
